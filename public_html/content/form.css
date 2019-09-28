@@ -1,0 +1,42 @@
+
+ td {
+  height: 10px;
+  padding: 1px;
+  text-align: justify;
+ width:150px;
+}
+.container{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+.fieldname{
+    text-align: right;
+}
+
+.commentsfield{
+    text-align: left;
+}
+
+.uppertext{
+    padding: 1px;
+  vertical-align: top;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 10px;
+}
+.required{
+     
+}
+
+input[type=text], [type=password]{
+ 
+     border: 1px solid #ccc;
+  
+}
+
+input[type=required]:focus {
+     border:1px solid  #CA3810;
+     outline: none;
+}

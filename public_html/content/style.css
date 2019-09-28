@@ -1,0 +1,66 @@
+nav {
+  float: center;
+  border-style:hidden;
+  background-color: #f1f1f1;
+  width:15%;
+  height: 100px;display: block;
+}
+
+a {
+  
+  color: #37B401;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+  border-style:hidden;	
+}
+a:hover {
+ 
+background-color: #CA3810;
+
+  color: #E3E60B;
+   height: 100%;
+}
+a:active {
+
+ background-color: #4CAF50;
+
+  color: white;
+  height: 100%;
+}
+body {
+  background-color: #f2ede8;
+  border-style:hidden;	
+}
+img {
+	border-style:hidden;
+}
+td {
+	color: #111386;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+ {
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 16px;
+  background-color: white;
+}
+
+hr {
+  
+  margin-bottom: 25px;
+}
